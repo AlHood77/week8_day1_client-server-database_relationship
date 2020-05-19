@@ -56,4 +56,6 @@ to organise and persist data
 
 Why do we need to use [`ObjectId`](https://mongodb.github.io/node-mongodb-native/api-bson-generated/objectid.html) from the MongoDB driver?
 
+identify unique objects
+
 Add to your diagram the dataflow for removing a game.
